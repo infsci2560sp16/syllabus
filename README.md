@@ -1,9 +1,8 @@
-# Advanced JavaScript syllabus
+# Web Technologies and Standards Syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/master/meta.md) document.***
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+* **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
+* **Instructor:** Brian J Kolowitz, kolowitz@pitt.edu [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
@@ -318,3 +317,5 @@ Please respect the terms of use and/or license of any code you find, and if you 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+This repository was cloned from https://github.com/advanced-js/syllabus and modified to meet the needs of this course.

@@ -110,69 +110,66 @@ In general, the course will be divided into four parts.
 
 The course assignments are broken down into 2 major projects with multiple assignments per project.
 
-* Project 1 - Full Stack Web Project
-  * Assignment 1.1 (Week 2) Getting Started (50 points)
-  * Assignment 1.2 (Week 2) Project Proposal (50 points)
-  * Assignment 1.3 (Week 5) Project Presentation tier (50 points)
-  * Assignment 1.4 (Week 9) Project Logic tier (50 points)
-  * Assignment 1.5 (Week 13) Project Data tier (50 points)
-  * Assignment 1.6 (Week 14) Final Project Submission (50 points)
+**Project 1 - Full Stack Web Project**
+* Assignment 1.1 (Week 2) Getting Started (50 points)
+* Assignment 1.2 (Week 2) Project Proposal (50 points)
+* Assignment 1.3 (Week 5) Project Presentation tier (50 points)
+* Assignment 1.4 (Week 9) Project Logic tier (50 points)
+* Assignment 1.5 (Week 13) Project Data tier (50 points)
+* Assignment 1.6 (Week 14) Final Project Submission (50 points)
 
-    >**Workflow**
+>**Workflow**
 
-    >* If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
-      * Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
-      * Clone the repository to your computer.
-      * Open the `index.html` file in a browser and open the Developer Tools.
-      * Modify the files to complete your solution.
-      * Refresh the `index.html` page to see the results, and repeat.
-      * Make sure all of your code is committed.
-      * Push/sync up to GitHub.
-      * [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-    * You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-    * When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes. Note that your solution will also be live at
+>If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
+* Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
+* Clone the repository to your computer.
+* Open the `index.html` file in a browser and open the Developer Tools.
+* Modify the files to complete your solution.
+* Refresh the `index.html` page to see the results, and repeat.
+* Make sure all of your code is committed.
+* Push/sync up to GitHub.
+* [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
+* You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
+* When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes. Note that your solution will also be live at
 
-    >**Requirements**
+>**Requirements**
+>These apply to real life, as well.
+* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
+* All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
+* All written JS should pass [JSHint](http://jshint.com).
+* Must apply "good programming style" learned in class
+* Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
+* Optimize for readability.
+    * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
+* Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
+* For projects, use Object-Oriented Programming.
+* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
 
-    >These apply to real life, as well.
-      * [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
-      * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-      * All written JS should pass [JSHint](http://jshint.com).
-      * Must apply "good programming style" learned in class
-      * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-      * Optimize for readability.
-          * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-      * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-      * For projects, use Object-Oriented Programming.
-      * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
+**Project 2 – Standards Assessment**
+* Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
+* Assignment 2.2 (Week 6) Standards Assessment (10 points) Bibliography
+* Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)
+* Assignment 2.4 (Week 12) Standards Assessment Paper (70 points)
 
+>**Requirements**
 
-* Project 2 – Standards Assessment
-  * Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
-  * Assignment 2.2 (Week 6) Standards Assessment (10 points) Bibliography
-  * Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)
-  * Assignment 2.4 (Week 12) Standards Assessment Paper (70 points)
+>Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
+>Your report should address:
+* Select an area of W3C or other web related standardization activity
+* Assessment of the state of the standardization effort
+  * What is being standardized?
+  * What is the goal?
+  * Who are the prime movers?
+  * How it is being standardized?
+* What are the related standards?
+* How is the problem broken up?
+* How are objections being dealt with?
+* What is your view of the effort?
+* What is your view of the importance?
+* What is your view of the implications?
+* What do you agree or disagree with? Why?
 
-    >**Requirements**
-
-    >Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
-
-    >Your report should address:
-    * Select an area of W3C or other web related standardization activity
-    * Assessment of the state of the standardization effort
-      * What is being standardized?
-      * What is the goal?
-      * Who are the prime movers?
-      * How it is being standardized?
-    * What are the related standards?
-    * How is the problem broken up?
-    * How are objections being dealt with?
-    * What is your view of the effort?
-    * What is your view of the importance?
-    * What is your view of the implications?
-    * What do you agree or disagree with? Why?
-
-    > Your final report should include a 10-12 page paper (double spaced excluding title page and bibliography)
+>Your final report should include a 10-12 page paper (double spaced excluding title page and bibliography)
 
 
 All assignments will be graded accorded to the associated rubric listed in the courseweb. All assignments will be submitted as instructed in the corresponding courseweb item.

@@ -120,7 +120,7 @@ The course assignments are broken down into 2 major projects with multiple assig
 
     >**Workflow**
 
-    >If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
+    >* If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
       * Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
       * Clone the repository to your computer.
       * Open the `index.html` file in a browser and open the Developer Tools.
@@ -129,10 +129,8 @@ The course assignments are broken down into 2 major projects with multiple assig
       * Make sure all of your code is committed.
       * Push/sync up to GitHub.
       * [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-
-    >You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-    >When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes. Note that your solution will also be live at
+    * You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
+    * When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes. Note that your solution will also be live at
 
     >**Requirements**
 

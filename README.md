@@ -120,7 +120,7 @@ The course assignments are broken down into 2 major projects with multiple assig
 
     >**Workflow**
 
-    >* If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
+    >* If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
       * Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
       * Clone the repository to your computer.
       * Open the `index.html` file in a browser and open the Developer Tools.

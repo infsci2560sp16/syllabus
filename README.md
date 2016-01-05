@@ -2,13 +2,11 @@
 
 
 * **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
-* **Instructor:** Brian J Kolowitz, kolowitz@pitt.edu [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
+* **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560sp16?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+   * Emailfor 1-on-1 help, or to set up a time to meet
 
 ## Introduction
 
@@ -55,15 +53,15 @@ The required textbooks for this course are:
 
 * __(Provided by the instructor – do not purchase) Scaffolding the New Web: Standards and Standards Policy for the Digital Economy__ by Martin C. Libicki, et al (Paperback - June 2000), RAND Corporation (June, 2000). ISBN: 0833028588 ([http://www.rand.org/pubs/monograph_reports/MR1215/index.html](http://www.rand.org/pubs/monograph_reports/MR1215/index.html))
 
-* Students may also wish to read:
+Students may also wish to read:
 
-* **Global Standards: Building Blocks for the Future**, Linda Garcia, Office of Technology Assessment  (Copies will be provided by the instructor)
+* __Global Standards: Building Blocks for the Future__, Linda Garcia, Office of Technology Assessment  (Copies will be provided by the instructor)
 
-* **Charles F. Goldfarb's XML Handbook,** Fifth Edition Charles F. Goldfarb, Paul Prescod Prentice Hall PTR; 5 edition (November 3, 2003), ISBN: 0130497657
+* __Charles F. Goldfarb's XML Handbook,__ Fifth Edition Charles F. Goldfarb, Paul Prescod Prentice Hall PTR; 5 edition (November 3, 2003), ISBN: 0130497657
 
-* "Information Technology Standards." In M.E. Williams (ed.) **Annual Review of Information Science and Technology.** Volume 26.
+* "Information Technology Standards." In M.E. Williams (ed.) __Annual Review of Information Science and Technology.__ Volume 26.
 
-* **Standards Policy for Information Infrastructure**, Brian Kahnin and Janet Abbate (Eds.) MIT Press, Cambridge Mass, 1996.
+* __Standards Policy for Information Infrastructure__, Brian Kahnin and Janet Abbate (Eds.) MIT Press, Cambridge Mass, 1996.
 
 ## Course Overview
 

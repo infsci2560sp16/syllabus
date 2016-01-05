@@ -6,7 +6,7 @@
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infsci2560sp16?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-   * Emailfor 1-on-1 help, or to set up a time to meet
+   * Email for 1-on-1 help, or to set up a time to meet
 
 ## Introduction
 

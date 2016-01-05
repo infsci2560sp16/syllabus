@@ -51,9 +51,9 @@ The goals of the course are:
 
 The required textbooks for this course are:
 
-* **Beginning XML, 4th Edition (Programmer to Programmer) **(Paperback) David Hunter, Jeff Rafter, Joe Fawcett, Eric van der Vlist, Danny Ayers, Jon Duckett, Andrew Watt, and Linda McKinnon. Publisher: Wrox; 4 edition (May 21, 2007), Paperback: 1080 pages. ISBN-10: 0470114878, ISBN-13: 978-0470114872
+* __Beginning XML, 4th Edition (Programmer to Programmer)__ (Paperback) David Hunter, Jeff Rafter, Joe Fawcett, Eric van der Vlist, Danny Ayers, Jon Duckett, Andrew Watt, and Linda McKinnon. Publisher: Wrox; 4 edition (May 21, 2007), Paperback: 1080 pages. ISBN-10: 0470114878, ISBN-13: 978-0470114872
 
-* **(Provided by the instructor – do not purchase) Scaffolding the New Web: Standards and Standards Policy for the Digital Economy **by Martin C. Libicki, et al (Paperback - June 2000), RAND Corporation (June, 2000). ISBN: 0833028588 ([http://www.rand.org/pubs/monograph_reports/MR1215/index.html](http://www.rand.org/pubs/monograph_reports/MR1215/index.html))
+* __(Provided by the instructor – do not purchase) Scaffolding the New Web: Standards and Standards Policy for the Digital Economy__ by Martin C. Libicki, et al (Paperback - June 2000), RAND Corporation (June, 2000). ISBN: 0833028588 ([http://www.rand.org/pubs/monograph_reports/MR1215/index.html](http://www.rand.org/pubs/monograph_reports/MR1215/index.html))
 
 * Students may also wish to read:
 

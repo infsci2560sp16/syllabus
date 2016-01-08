@@ -47,7 +47,7 @@ The goals of the course are:
 
 **Course Materials**
 
-The required textbooks for this course are:
+The recommended textbooks for this course are:
 
 * __Beginning XML, 4th Edition (Programmer to Programmer)__ (Paperback) David Hunter, Jeff Rafter, Joe Fawcett, Eric van der Vlist, Danny Ayers, Jon Duckett, Andrew Watt, and Linda McKinnon. Publisher: Wrox; 4 edition (May 21, 2007), Paperback: 1080 pages. ISBN-10: 0470114878, ISBN-13: 978-0470114872
 

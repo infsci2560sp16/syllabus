@@ -108,7 +108,35 @@ In general, the course will be divided into four parts.
 
 The course assignments are broken down into 2 major projects with multiple assignments per project.
 
-**Project 1 - Full Stack Web Project**
+[**Project 1 - Full Stack Web**](#full-stack-web-project)
+>You are required to create a web application to satisfy the requirements to complete this class. This is an open-ended project that complements the lecture and in-class activities. This project will give you the necessary experience to hone your Web programming skills in a practical and personal manner.
+
+>Minimum Project Requirements
+
+>At a minimum, you must create a Create-Read-Update-Delete (CRUD) Full Stack Web Application that utilizes Web 2.0-style Ajax interactions. More specifically, the application must:
+* Allow users to create accounts and persist data
+* Allow users to update existing data
+* Allow users to delete data and accounts
+* Do all of the above utilizing Ajax (and/or WebSockets)
+Static personal websites or even dynamic read-only sites such as weather-lookup applications do not meet the requirements. There is no way for a user to both create an account and update persisted data.
+
+>High-level requirements include:
+* The app must work when viewed in a modern web browser.
+* The client-side code must be HTML5 compliant (HTML, JavaScript, CSS) e.g. no Flash, Siverlight, Java Applets, etc.
+* The server-side code must be Java and utilize the Heroku java-getting-started codebase as a starting point.
+* All project code must be publicly hosted on your full-stack-web-project GitHub repository and successfully build through the instructor’s integration with Travis-CI.
+* All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
+* All written JS should pass [JSHint](http://jshint.com).
+* Must apply "good programming style" learned in class
+* Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
+* Optimize for readability.
+    * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
+* Use Object-Oriented Programming.
+* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
+* The application must be hosted on Heroku.
+* You must be able to demonstrate the project in person (or virtually) if called upon for grading or to answer project specific questions.
+* You must ensure that your project satisfies all of the individual items in the Courseweb rubric which will be used for grading.
+
 * Assignment 1.1 (Week 2) Getting Started (50 points)
 * Assignment 1.2 (Week 2) Project Proposal (50 points)
 * Assignment 1.3 (Week 5) Project Presentation tier (50 points)
@@ -116,34 +144,8 @@ The course assignments are broken down into 2 major projects with multiple assig
 * Assignment 1.5 (Week 13) Project Data tier (50 points)
 * Assignment 1.6 (Week 14) Final Project Submission (50 points)
 
->**Workflow**
 
->If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps.
-* Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
-* Clone the repository to your computer.
-* Open the `index.html` file in a browser and open the Developer Tools.
-* Modify the files to complete your solution.
-* Refresh the `index.html` page to see the results, and repeat.
-* Make sure all of your code is committed.
-* Push/sync up to GitHub.
-* [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-* You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-* When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes. Note that your solution will also be live at
-
->**Requirements**
->These apply to real life, as well.
-* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
-* All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-* All written JS should pass [JSHint](http://jshint.com).
-* Must apply "good programming style" learned in class
-* Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-* Optimize for readability.
-    * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-* Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-* For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
-
-**Project 2 – Standards Assessment**
+[**Project 2 – Standards Assessment**](standards-assessment-project)
 * Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
 * Assignment 2.2 (Week 6) Standards Assessment (10 points) Bibliography
 * Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)

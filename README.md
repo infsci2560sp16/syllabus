@@ -145,7 +145,7 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 * Assignment 1.6 (Week 14) Final Project Submission (50 points)
 
 
-[**Project 2 – Standards Assessment**](standards-assessment-project)
+[**Project 2 – Standards Assessment**](#standards-assessment-project)
 * Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
 * Assignment 2.2 (Week 6) Standards Assessment (10 points) Bibliography
 * Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)

@@ -155,17 +155,16 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 
 >Carve out one area of current W3C or other web related standardization activity and develop an assessment of the state of the standardization effort.
 >Select an area of W3C or other web related standardization activity. The focus of the paper should be on the way in which the standard is created, updated, and maintained and not about the technology itself. Your report should address:
-* Description and Assessment of the standardization effort
-  * Description: What is being standardized?
-    * Assessment: What are the related standards and how is this different?
-  * Description: What is the goal of the standard and why is it necessary?
-    * Assessment: Does this standard achieve the goal and solve the need?
-  * Description: How is the standard being standardized?
-    * Assessment: Does the standardization mechanism limit its effectiveness or adoption?
-  * Description: Who are the prime movers and/or contributors to the standard?
-    * Assessment: What specific consequences (good or bad) result from the prime mover contributors.
-  * Description: What impact does the standard have on the intended target audience?
-    * Assessment: What is your view of the importance and implications of the standard?
+* Description: What is being standardized?
+  * Assessment: What are the related standards and how is this different?
+* Description: What is the goal of the standard and why is it necessary?
+  * Assessment: Does this standard achieve the goal and solve the need?
+* Description: How is the standard being standardized?
+  * Assessment: Does the standardization mechanism limit its effectiveness or adoption?
+* Description: Who are the prime movers and/or contributors to the standard?
+  * Assessment: What specific consequences (good or bad) result from the prime mover contributors.
+* Description: What impact does the standard have on the intended target audience?
+  * Assessment: What is your view of the importance and implications of the standard?
 
 >Your final report should include a 10-15 page paper (double spaced excluding title page and bibliography)
 

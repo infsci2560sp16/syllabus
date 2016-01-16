@@ -118,7 +118,7 @@ The course assignments are broken down into 2 major projects with multiple assig
 * Allow users to create accounts and persist data
 * Allow users to update existing data
 * Allow users to delete data and accounts
-* Do all of the above utilizing Ajax (and/or WebSockets)
+* Do all of the above utilizing Ajax (and/or WebSockets) where appropriate.
 Static personal websites or even dynamic read-only sites such as weather-lookup applications do not meet the requirements. There is no way for a user to both create an account and update persisted data.
 
 >High-level requirements include:

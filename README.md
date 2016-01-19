@@ -204,7 +204,7 @@ All assignments will be graded accorded to the associated rubric listed in the c
 
 ### Academic Integrity
 
->You are expected to be fully aware of your responsibility to maintain a high quality of integrity in all of your work. All work must be your own, unless collaboration is specifically and explicitly permitted as in the course group project. Any unauthorized collaboration or copying will at minimum result in no credit for the affected assignment and may be subject to further action under the [University Guidelines for Academic Integrity](http://www.provost.pitt.edu/info/ai1.html). You are expected to have read and understood these Guidelines. A document discussing these guidelines was included in your orientation materials.
+>You are expected to be fully aware of your responsibility to maintain a high quality of integrity in all of your work. All work must be your own, unless collaboration is specifically and explicitly permitted. Any unauthorized collaboration or copying will at minimum result in no credit for the affected assignment and may be subject to further action under the [University Guidelines for Academic Integrity](http://www.provost.pitt.edu/info/ai1.html). You are expected to have read and understood these Guidelines. A document discussing these guidelines was included in your orientation materials.
 
 ### Special Considerations
 

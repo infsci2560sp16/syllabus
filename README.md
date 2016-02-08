@@ -4,6 +4,7 @@
 * **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
+  * **Phone**: (412) 837-9115
 * **Teaching Assistant:** Dimple Dharamsingh Varma, [DDV1@pitt.edu](mailto:DDV1@pitt.edu)
   * **Office Hours**: Wednesday 11a-1p
 * **Need help?**

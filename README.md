@@ -4,7 +4,6 @@
 * **Course:** [INFSCI2560-24993, University of Pittsburgh](http://www.ischool.pitt.edu/ist/courses/descriptions.php)
 * **Instructor:** Brian J Kolowitz, [kolowitz@pitt.edu](mailto:kolowitz@pitt.edu)
   * **Office Hours**: By Appointment
-  * **Phone**: (412) 837-9115
 * **Teaching Assistant:** Dimple Dharamsingh Varma, [DDV1@pitt.edu](mailto:DDV1@pitt.edu)
   * **Office Hours**: Wednesday 11a-1p
 * **Need help?**
@@ -151,7 +150,7 @@ Static personal websites or even dynamic read-only sites such as weather-lookup 
 
 [**Project 2 – Standards Assessment**](#standards-assessment-project)
 * Assignment 2.1 (Week 3) Standards Assessment Proposal (10 points)
-* Assignment 2.2 (Week 6) Standards Assessment (10 points) Bibliography
+* Assignment 2.2 (Week 6) Standards Assessment Bibliography (10 points)
 * Assignment 2.3 (Week 10) Standards Assessment Outline (10 points)
 * Assignment 2.4 (Week 12) Standards Assessment Paper (70 points)
 
